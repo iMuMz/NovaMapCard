@@ -1,5 +1,5 @@
 ![](https://img.shields.io/github/stars/iMuMz/NovaMapCard?&style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/imumz/NovaMapCard?color=red)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/imumz/NovaMapCard?color=red&style=flat-square)
 ![Packagist](https://img.shields.io/packagist/dt/imumz/nova-map-card?color=green&logo=testing&style=flat-square)
 # NovaMapCard
 Custom [Laravel Nova](https://nova.laravel.com/) map card using [Vue2Leaflet](https://korigan.github.io/Vue2Leaflet). Supports Google Maps, marker clustering, height, zoom, latitude and longitude coordinates, GeoJSON, marker popup and custom marker icon.
